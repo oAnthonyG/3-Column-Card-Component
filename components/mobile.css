@@ -1,0 +1,12 @@
+@media screen and (max-width:675px)  {
+    main{
+        display: block;
+        padding: 45px;
+    }
+    .Bright-orange{
+        border-radius: 10px 10px 0 0;
+    }
+    .Very-dark-cyan{
+        border-radius: 0 0 10px 10px;
+    }
+}

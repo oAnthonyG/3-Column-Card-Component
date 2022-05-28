@@ -1,0 +1,19 @@
+
+
+.title{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    font-size: 40px;
+    color: hsl(0, 0%, 95%);
+    padding-top: 30px;
+
+}
+.text{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(0, 0%, 95%);
+    line-height: 1.6;
+    padding-top: 15px;
+    
+}
