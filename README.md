@@ -5,7 +5,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./FireShot%20Capture%203-column%20preview%20card%20component.png)
 
 
 ### Links
